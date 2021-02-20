@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
-module.exports = new Sequelize('myrecords', 'root', 'osmosis01', {
-    host: 'localhost',
+module.exports = new Sequelize('sql3394102', 'sql3394102', 'cDnClRaVv2', {
+    host: 'sql3.freemysqlhosting.net',
     dialect: 'mysql',
     operatorAliases: false,
 
