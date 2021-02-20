@@ -15,5 +15,5 @@ app.use('/api', expressGraphQL({
 }));
 var PORT = process.env.PORT || 8900;
 app.listen(PORT, function () {
-    console.log('Listening at yea ', PORT);
+    console.log('Listening at ', PORT);
 });

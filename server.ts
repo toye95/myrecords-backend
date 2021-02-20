@@ -21,5 +21,5 @@ app.use('/api', expressGraphQL({
 const PORT = process.env.PORT || 8900 
 
 app.listen(PORT, () => {
-    console.log('Listening at yea ', PORT)
+    console.log('Listening at ', PORT)
 })
