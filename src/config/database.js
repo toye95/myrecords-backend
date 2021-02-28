@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize')
-module.exports = new Sequelize('sql3394102', 'sql3394102', 'cDnClRaVv2', {
+module.exports = new Sequelize('sql3395811', 'sql3395811', 'y5tRZmDyQZ', {
     host: 'sql3.freemysqlhosting.net',
     dialect: 'mysql',
     operatorAliases: false,
